@@ -11,7 +11,8 @@ import PEqualNP.Defs
 -- gates over the inputs and their negations is a circuit on eight wires; no circuit on eight wires
 -- with fewer gates (NOT gates allowed) is right on the sixteen consistent settings: a direct search
 -- from every set of wires, replayed by the kernel. The passage from a circuit to a run of that
--- search is adapted from the checked proof of L-meta-7404.
+-- search is adapted from the checked proof of L-meta-7404. The search visits 13530 states over all
+-- starting sets of wires; the file is about 56 KB and needs no outside certificate.
 
 namespace PEqualNP.Outside.V_meta_9724__k6
 
