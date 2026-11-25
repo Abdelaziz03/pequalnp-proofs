@@ -1,0 +1,1 @@
+The description of the OR closure (the lemmas on orSets and OrReaches) is copied from the checked proof of L-meta-4183. The counting argument follows the sketch on the desk. The file declares no data type and no instance.
